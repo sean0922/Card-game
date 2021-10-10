@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.csprojAssemblyReference.cache
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.Form1.resources
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.Properties.Resources.resources
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.csproj.GenerateResource.cache
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\bin\Debug\翻翻牌最完整第二版.exe
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\bin\Debug\翻翻牌最完整第二版.pdb
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.exe
+C:\Users\USER\Documents\所有的程式\翻翻牌最完整第二版\翻翻牌最完整第二版\obj\Debug\翻翻牌最完整第二版.pdb
